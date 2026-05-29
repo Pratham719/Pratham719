@@ -71,7 +71,7 @@ For collaboration, projects, or just tech discussions 😄
 
 # ⭐ Featured Projects
 
-⚡ Nassau Candy Profitability Dashboard  
+⚡ Nassau Candy Dashboard  
 ☕ Coffee Revenue Dashboard  
 🧩 NeetCode DSA Solutions
 

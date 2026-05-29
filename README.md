@@ -18,6 +18,7 @@ For collaboration, projects, or just tech discussions 😄
 # 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-ds)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://coffee-revenue-dashboard-2026.streamlit.app)
 
 <br>
 
@@ -26,9 +27,14 @@ For collaboration, projects, or just tech discussions 😄
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
 
@@ -71,6 +77,7 @@ For collaboration, projects, or just tech discussions 😄
 
 <br>
 
-# ✍️ Current Mindset
+# ✨ Current Mindset
 
 > Learning slowly, building consistently, improving every day 🚀
+

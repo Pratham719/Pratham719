@@ -11,7 +11,7 @@ For collaboration, projects, or just tech discussions 😄
 - 💬 Ask me about: Python, Streamlit, Beginner DSA
 - ⚡ Fun fact: I spend more time debugging than coding sometimes 😭
 - 🎯 Current Goal: Become stronger in logic building & development fundamentals
-- 🌐 Live Apps: https://coffee-revenue-dashboard-2026.streamlit.app
+- 🌐 Live Apps: https://candymetrics-dashboard.streamlit.app/
 
 <br>
 
